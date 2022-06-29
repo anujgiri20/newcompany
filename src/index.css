@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.popupimg{
+  width: 80%;
+  margin:auto;
+}
+.popupdiv{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+margin:50px;
+}
+.dropdown
+{
+color:black;
+width:50%;
+margin:auto;
+
+}
